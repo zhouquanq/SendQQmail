@@ -12,11 +12,11 @@
 ## 目录说明
 
 ```
-SendQQmail					根目录
-├─src						应用目录
-│  ├─PHPMailer 				PHP邮件发送类
-│  ├─PHPMailer.class.php 	二次封装 方便使用
-│  ├─index 					入口文件
+SendQQmail                  根目录
+├─src                       应用目录
+│  ├─PHPMailer              PHP邮件发送类
+│  ├─PHPMailer.class.php    二次封装 方便使用
+│  ├─index                  入口文件
 ```
 
 ## 使用
@@ -25,7 +25,6 @@ SendQQmail					根目录
 
 ```
 git clone https://github.com/zhouquanq/SendQQmail.git
-
 ```
 
 ### 2. QQ邮箱开启SMTP 协议
